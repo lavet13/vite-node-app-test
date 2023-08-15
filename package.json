@@ -19,6 +19,7 @@
   "devDependencies": {
     "@types/cors": "^2.8.13",
     "vite": "^4.4.9",
-    "vite-plugin-node": "^3.0.2"
+    "vite-plugin-node": "^3.0.2",
+    "vitest": "^0.34.1"
   }
 }
